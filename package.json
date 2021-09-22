@@ -1,5 +1,5 @@
 {
-  "name": "hebrew-date",
+  "name": "h-date",
   "version": "1.0.0",
   "description": "A modern JS wrapper around libhdate-js - Easy to use Hebrew date",
   "main": "index.js",
