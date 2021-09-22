@@ -42,7 +42,7 @@ Where options are:
 
 example:
 ```js
-const HebrewDate = require('HebrewDate')
+const HebrewDate = require('hebrew-date')
 
 // With specific date object
 const date = new Date('2021-09-21');
