@@ -1,12 +1,12 @@
 {
-  "name": "libhdate-wrapper",
+  "name": "HebrewDate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A modern JS wrapper around libhdate-js - Easy to use Hebrew date",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Assaf Sapir <me@ass.af>",
   "license": "ISC",
   "dependencies": {
     "libhdate": "^0.3.2"
